@@ -13,3 +13,11 @@
 .externalNativeBuild
 .cxx
 local.properties
+keystore.properties
+*.jks
+/mudanzapp-keys/senha_app.txt
+app-release.apk
+output-metadata.json
+*.dm
+mudanzapp-keys/firebase-app-mudanza-652dae4a0536.json
+google-services.json
