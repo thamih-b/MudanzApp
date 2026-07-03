@@ -15,8 +15,8 @@ App Mudanza is an Android app designed to support the moving process with a simp
 4. Share a public APK download link through GitHub Releases for easy demo access.
 
 ## Demo
-- Download APK: [latest release APK](YOUR_GITHUB_RELEASE_APK_LINK)
-- Source code: [GitHub repository](YOUR_REPO_LINK)
+- Download APK: https://github.com/thamih-b/MudanzApp/releases/download/v1.0.0/app-release.apk
+- Source code: https://github.com/thamih-b/MudanzApp
 
 ## Testing
 The app was tested on a real Android device before release.
